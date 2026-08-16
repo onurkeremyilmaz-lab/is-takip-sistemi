@@ -10,7 +10,7 @@ import os
 
 st.set_page_config(
     page_title="İşlerim",
-    page_icon="8914570C-3748-4E4A-BBC5-2AA43B821FD5.png",
+    page_ticon="8914570C-3748-4E4A-BBC5-2AA43B821FD5.png",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
